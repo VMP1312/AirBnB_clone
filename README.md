@@ -1,31 +1,31 @@
 # AirBnB Clone
 ![HBnB](./img/hbnb.png)
 
-# Contents
+### Contents
 
-- [Description](  # Description)
-- [Environment](  # Environment)
-- [Further Information](  # Furtherinformation)
-- [Requirements](  # Requirements)
-- [Repo Contents](  # FileContents)
-- [Installation](  # Installation)
-- [Usage](  # Usage)
-- [Built with](  # Built-with)
-- [Acknowledgements](  # Acknowledgements)
+- [Description](#Description)
+- [Environment](#Environment)
+- [Further Information](#Furtherinformation)
+- [Requirements](#Requirements)
+- [Repo Contents](#FileContents)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Built with](#Built-with)
+- [Acknowledgements](#Acknowledgements)
 
-# Description
+## Description
 This is the first phase of a four phase project, to create a basic clone of the AirBnB web app. In this first phase a basic console was created using the Cmd Python module, to manage the objects of the whole project, being able to implement the methods create, show, update, all, and destroy to the existing classes and subclasses.
 
-# Environment
+## Environment
 The console was developed in Ubuntu 14.04LTS using python3(version 3.4.3).
 
-# Further information
+### Further information
 For further information on python version, and documentation visit[python.org](https: // www.python.org /) .
 
-# Requirements
+## Requirements
 Knowledge in python3, how to use a command line interpreter, a computer with Ubuntu 14.04, python3 and pep8 style corrector.
 
-# Repo Contents
+## Repo Contents
 This repository constains the following files:
 
 | **File ** | **Description ** |
@@ -50,15 +50,15 @@ This repository constains the following files:
 |[tests_file_storage.py](./tests/tests_models/tests_engine/tests_file_storage.py) | unittests for file_storage |
 |[tests_console.py](./tests/tests_console.py) | unittests for console |
 
-# Installation
+## Installation
 Clone the repository and run the console.py
 ```
-$ git clone https: // github.com/21Insight/AirBnB_clone.git
+$ git clone https://github.com/21Insight/AirBnB_clone.git
 ```
 
-# Usage
+## Usage
 
-| **Method ** | **Description ** |
+| **Method** | **Description** |
 | -------------- | --------------------- |
 |[create](./console.py) | Creates object of given class |
 |[show](./console.py) | Prints the string representation of an instance based on the class name and id |
@@ -69,7 +69,7 @@ $ git clone https: // github.com/21Insight/AirBnB_clone.git
 |[help](./console.py) | Prints information about specific command |
 |[quit / EOF](./console.py) | Exit the program |
 
-# Example No.1
+###### Example No.1
 ```
 $ ./console.py
 (hbnb) create User
@@ -89,7 +89,7 @@ $ ./console.py
 (hbnb) EOF
 ```
 
-# Example No.2
+###### Example No.2
 ```
 $ ./console.py
 (hbnb) User.create
@@ -111,15 +111,15 @@ ee226e2b-fc4a-4b16-a16f-3e3e358a4ee1
 (hbnb) quit
 ```
 
-# Built with
+## Built with
 python3(3.4.3)
 
 ### Version
 HBnB - version 1.20
 
-# Acknowledgements
+### Acknowledgements
 To all the peers that contribuited with their knowledge
 
-# Authors
+### Authors
 * Jose Cuervo - @21Insight
 * Victor Paz - @VMP1312
