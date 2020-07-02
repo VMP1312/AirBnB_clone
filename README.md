@@ -28,7 +28,7 @@ Knowledge in python3, how to use a command line interpreter, a computer with Ubu
 ## Repo Contents
 This repository constains the following files:
 
-| **File ** | **Description ** |
+| **File** | **Description** |
 | -------------- | --------------------- |
 |[AUTHORS](./AUTHORS) | Contains info about authors of the project |
 |[base_model.py](./models/base_model.py) | Defines BaseModel class (parent class), and methods |
