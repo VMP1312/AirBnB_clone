@@ -20,7 +20,7 @@ This is the first phase of a four phase project, to create a basic clone of the 
 The console was developed in Ubuntu 14.04LTS using python3(version 3.4.3).
 
 ### Further information
-For further information on python version, and documentation visit[python.org](https: // www.python.org /) .
+For further information on python version, and documentation visit[python.org](https://www.python.org/) .
 
 ## Requirements
 Knowledge in python3, how to use a command line interpreter, a computer with Ubuntu 14.04, python3 and pep8 style corrector.
@@ -40,15 +40,15 @@ This repository constains the following files:
 |[state.py](./models/state.py) | Defines subclass State |
 |[file_storage.py](./models/engine/file_storage.py) | Creates new instance of class, serializes and deserializes data |
 |[console.py](./console.py) | creates object, retrieves object from file, does operations on objects, updates attributes of object and destroys object |
-|[tests_base_model.py](./tests/tests_models/test_base_model.py) | unittests for base_model |
-|[tests_user.py](./tests/test_models/tests_user.py) | unittests for user |
-|[tests_amenity.py](./tests/test_models/tests_amenity.py) | unittests for amenity |
-|[tests_city.py](./tests/test_models/tests_city.py) | unittests for city |
-|[tests_place.py](./tests/test_models/tests_place.py) | unittests for place |
-|[tests_review.py](./tests/test_models/tests_review.py) | unittests for review |
-|[tests_state.py](./tests/test_models/tests_state.py) | unittests for state |
-|[tests_file_storage.py](./tests/tests_models/tests_engine/tests_file_storage.py) | unittests for file_storage |
-|[tests_console.py](./tests/tests_console.py) | unittests for console |
+|[tests_base_model.py](./tests/test_models/test_base_model.py) | unittests for base_model |
+|[tests_user.py](./tests/tes_models/test_user.py) | unittests for user |
+|[tests_amenity.py](./tests/tes_models/test_amenity.py) | unittests for amenity |
+|[tests_city.py](./tests/tes_models/test_city.py) | unittests for city |
+|[tests_place.py](./tests/tes_models/test_place.py) | unittests for place |
+|[tests_review.py](./tests/tes_models/test_review.py) | unittests for review |
+|[tests_state.py](./tests/tes_models/test_state.py) | unittests for state |
+|[tests_file_storage.py](./tests/test_models/test_engine/test_file_storage.py) | unittests for file_storage |
+|[tests_console.py](./tests/test_console.py) | unittests for console |
 
 ## Installation
 Clone the repository and run the console.py
