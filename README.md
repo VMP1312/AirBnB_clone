@@ -113,7 +113,6 @@ ee226e2b-fc4a-4b16-a16f-3e3e358a4ee1
 
 ## Built with
 python3(3.4.3)
-
 ### Version
 HBnB - version 1.20
 
